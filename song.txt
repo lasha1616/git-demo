@@ -1,3 +1,4 @@
 erti 1
 ori 2
 xuti 5
+ექვსი 6
