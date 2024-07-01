@@ -1,4 +1,3 @@
-erti 1
-ori 2
+erti 
+ori 
 xuti 5
-ექვსი 6
